@@ -2,10 +2,13 @@
 
 ## Movies
 1. **Catch Me If You Can**
+2. **Into the Woods (The Musical)**
+3. **PIXELS**
 
 ## Series
 - **Young Justice**
 - **Attack on Titan: The Final Season**
+- **Hazbin Hotel**
 
 > “Great stories stay with us forever.”
 
